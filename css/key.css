@@ -1,8 +1,6 @@
 div {
-    width: 150px;
-    height: 150px;
+
     background-color: #eee;
-    margin: 20px auto;
-    border-radius: 6px;
-    overflow: auto;
+
+    text-shadow: 0 0 0 red;
 }
