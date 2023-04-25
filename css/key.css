@@ -1,41 +1,7 @@
-.one {
-
-    border-bottom: 2px solid white;
-    color: blue;
-
-
-
+div p {
+    color: #ff0000;
 }
 
-.two {
-
-    border-bottom: 2px solid rgb(199, 88, 88);
-    color: rgb(13, 13, 80);
-
-
-}
-
-.three {
-
-    border-bottom: 2px solid rgb(0, 4, 255);
-
-    color: rgb(13, 13, 80);
-
-
-}
-
-.four {
-
-    border-bottom: 2px solid rgb(0, 0, 0);
-    color: rgb(0, 0, 0);
-}
-
-.one,
-.two,
-.three,
-.four,
-.my-p {
-    padding: 20px;
-    margin: 20px 0;
-    background-color: #eee;
+p {
+    color: #000;
 }
