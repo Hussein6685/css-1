@@ -1,7 +1,8 @@
 div {
-
-    padding: 10px;
-    display: inline-block;
-    background-color: aliceblue;
-    width: auto;
+    width: 150px;
+    height: 150px;
+    background-color: #eee;
+    margin: 20px auto;
+    border-radius: 6px;
+    overflow: auto;
 }
