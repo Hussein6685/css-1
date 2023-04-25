@@ -1,12 +1,12 @@
-/*
-block
+div {
+    background-color: blueviolet;
+    margin: 10px 0;
+    /*display: none;*/
+    visibility: visible;
 
+}
 
-*/
-
-span {
-    background-color: chartreuse;
-    padding: 18px;
-    margin: 20px;
-    display: block;
+.frist {
+    /*display: none;*/
+    visibility: hidden;
 }
