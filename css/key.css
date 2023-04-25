@@ -1,13 +1,12 @@
-div {
-    text-align: center;
-    padding: 20px;
-    background-color: #EEE;
-    font-size: 20px;
-    border: 2px solid blue;
-}
+/*
+block
 
-div p {
-    border: 2px solid;
-    border-color: inherit;
-    padding: inherit;
+
+*/
+
+span {
+    background-color: chartreuse;
+    padding: 18px;
+    margin: 20px;
+    display: block;
 }
