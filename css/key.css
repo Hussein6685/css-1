@@ -1,7 +1,7 @@
-div p {
-    color: #ff0000;
-}
+div {
 
-p {
-    color: #000;
+    padding: 10px;
+    display: inline-block;
+    background-color: aliceblue;
+    width: auto;
 }
